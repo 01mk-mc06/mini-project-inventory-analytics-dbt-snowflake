@@ -95,7 +95,7 @@ warehouse_inventory:
 
 ---
 
-## 🔧 dbt_project.yml Configuration
+##  dbt_project.yml Configuration
 
 ### Project Settings
 
