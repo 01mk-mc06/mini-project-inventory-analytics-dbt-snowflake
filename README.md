@@ -10,20 +10,20 @@ This folder contains comprehensive documentation for Project 1, broken down into
 
 ### Core Documentation
 
-1. **[01_OVERVIEW.md]** - Executive Summary
+1. **01_OVERVIEW.md** - Executive Summary
    - Project objectives
    - Success metrics
    - Skills mastered
    - Quick start guide
 
-2. **[02_ARCHITECTURE.md]** - Data Flow & Design
+2. **02_ARCHITECTURE.md** - Data Flow & Design
    - Complete data flow diagram
    - Medallion architecture explained
    - Snowflake schema layout
    - Layer responsibilities
    - Architectural decisions
 
-3. **[03_SETUP_GUIDE.md]** - Environment Configuration
+3. **03_SETUP_GUIDE.md** - Environment Configuration
    - Virtual environment setup
    - Snowflake configuration
    - dbt profile setup
@@ -31,14 +31,14 @@ This folder contains comprehensive documentation for Project 1, broken down into
    - Initial data load
    - Verification steps
 
-4. **[04_TROUBLESHOOTING.md]** - Issues & Solutions
+4. **04_TROUBLESHOOTING.md** - Issues & Solutions
    - 8 major issues documented
    - Root causes and solutions
    - Verification steps
    - Lessons learned
    - General troubleshooting workflow
 
-5. **[05_CONCEPTS_LEARNINGS.md]** - Key Concepts
+5. **05_CONCEPTS_LEARNINGS.md** - Key Concepts
    - Core dbt concepts explained
    - SQL patterns learned
    - Best practices applied
@@ -46,18 +46,18 @@ This folder contains comprehensive documentation for Project 1, broken down into
 
 ### Additional Documentation
 
-6. **[SNOWFLAKE_VALIDATION_QUERIES.md]** - SQL Reference
+6. **SNOWFLAKE_VALIDATION_QUERIES.md** - SQL Reference
    - 100+ validation queries
    - Organized by layer
    - Business intelligence queries
    - Performance monitoring
    - Quick reference section
 
-7. **[PROJECT_01_COMPLETE_DOCUMENTATION.md]** - Comprehensive Guide
+7. **PROJECT_01_COMPLETE_DOCUMENTATION.md** - Comprehensive Guide
    - All-in-one complete documentation (40+ pages)
    - Everything in one file for easy searching
 
-8. **[PROJECT_01_SETUP_SUMMARY.md]** - Setup Summary
+8. **PROJECT_01_SETUP_SUMMARY.md** - Setup Summary
    - Condensed setup overview
    - Infrastructure details
    - Troubleshooting highlights
